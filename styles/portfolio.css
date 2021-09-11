@@ -104,6 +104,17 @@ p {
   padding: 15px 30px;
 }
 
+#launchbtn {
+  background: var(--branding-color);
+  border-radius: 4px;
+  color: white;
+  font-size: 12px;
+  line-height: 15px;
+  padding: 5px 5px;
+  max-width: 100px;
+  text-decoration: none;
+}
+
 .project-description {
   padding: 120px 60px;
 }
